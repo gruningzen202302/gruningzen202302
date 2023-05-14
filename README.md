@@ -1,7 +1,7 @@
 # DEVELOPERS DEVELOPERS DEVELOPERS !!!
 - __My Stack-Evolution theory , influenced by uncle bob__ Dotnet MAUI >> Javascript MERN (R= React Native) >> Clojure NBB 
 - 🌱 __I’m currently focused on the Functional Mindset__ Nixos  Clojure|scrpt 
-- 💞️ __I’m looking to collaborate on FOSS and to work Full-Time on Clojure Stack__
+- 💞️ __I’m looking to collaborate on FOSS and to work Full-Time on the Clojure Stack__
 - 📫 __reach me at__ alberto.gruning.zen@gmail.com / twitter @gruningzen...
 
 --- by the way my REPLs workflows use Calva (VsCode) and Conjure (NeoVim) respectively (and Emacs is -obviusly- the next thing...)
