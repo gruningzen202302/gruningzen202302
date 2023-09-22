@@ -6,8 +6,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gruningzen202302&theme=transparent&border_radius=8&rank_icon=github&show_icons=true)
 
---- by the way my REPLs workflows use Calva (VsCode) and Conjure (NeoVim) respectively (and Emacs is -obviusly- the next thing...)
+... by the way my REPLs workflows use Calva (VsCode), Conjure (NeoVim), and Emacs  
+
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+
+
+
 <!---
 gruningzen202302/gruningzen202302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
