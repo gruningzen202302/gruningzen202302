@@ -4,7 +4,7 @@
 - 💞️ __I’m looking to collaborate on FOSS and to work Full-Time on the Clojure Stack__
 - 📫 __reach me at__ alberto.gruning.zen@gmail.com / X @gruningzen...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gruningzen202302&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gruningzen202302&theme=transparent&border_radius=9&show_icons=true)
 
 --- by the way my REPLs workflows use Calva (VsCode) and Conjure (NeoVim) respectively (and Emacs is -obviusly- the next thing...)
 <!---
