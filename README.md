@@ -6,8 +6,14 @@
 
 ... by the way my REPLs workflows use Calva (VsCode), Conjure (NeoVim), and Emacs  
 
+<!--- https://github.com/anuraghazra/github-readme-stats --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gruningzen202302&theme=transparent&border_radius=8&rank_icon=github&show_icons=true)
+
+<!--- https://github.com/Ileriayo/markdown-badges --->
+
+<img align="left" alt="Clojure" src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure" />
+
 
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) 
 
