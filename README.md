@@ -1,5 +1,5 @@
 # DEVELOPERS DEVELOPERS DEVELOPERS !!!
-- __My Stack-Evolution theory , influenced by uncle bob__ Dotnet MAUI >> JavaScript MERN (R= React Native) >> Clojure/ClojureScript NBB 
+- __My Stack-Evolution theory , influenced by [Uncle Bob](https://twitter.com/unclebobmartin) __ Dotnet MAUI >> JavaScript MERN (R= React Native) >> Clojure/ClojureScript NBB 
 - 🌱 __I’m currently focused on the Functional Mindset__ Nixos/GUIX  Clojure|scrpt 
 - 💞️ __I’m looking to collaborate on FOSS and to work Full-Time on the Clojure Stack__
 - 📫 __reach me at__ alberto.gruning.zen@gmail.com / X @gruningzen...
