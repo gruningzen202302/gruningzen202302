@@ -2,7 +2,7 @@
 - __My Stack-Evolution theory , influenced by [Uncle Bob](https://twitter.com/unclebobmartin) __ Dotnet MAUI >> JavaScript MERN (R= React Native) >> Datomic/Clojure/ClojureDart 
 - 🌱 __I’m currently focused on the Functional Mindset__ NixOs/GUIX  Clojure|Dart 
 - 📲 __I’m looking to collaborate on FOSS and to work Full-Time on a functional LISP mobile-first Stack__
-- 📫 __reach me at__ [gmail](mailto:alberto.gruning.zen@gmail.com) /  [X](https://twitter.com/gruningzen) ...
+- 📫 __reach me at__ [gmail](alberto.gruning.zen@gmail.com) /  [X](https://twitter.com/gruningzen) ...
 
 ... by the way my REPLs workflows use Calva (VsCode), Conjure (NeoVim), and Emacs  
 
