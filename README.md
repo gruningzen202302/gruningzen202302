@@ -1,4 +1,7 @@
-# DEVELOPERS-DEVELOPERS-DEVELOPERS!
+# Albert Gruning
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Developers+Developers+Developers+;FullStack+Mobile+OpenSource)](https://git.io/typing-svg)
+
 - __My Stack-Evolution theory , influenced by [Uncle Bob](https://twitter.com/unclebobmartin) __ Dotnet MAUI >> JavaScript MERN (R= React Native) >> Datomic/Clojure/ClojureDart 
 - 🌱 __I’m currently focused on the Functional Mindset__ NixOs/GUIX  Clojure|Dart 
 - 📲 __I’m looking to collaborate on FOSS and to work Full-Time on a functional LISP mobile-first Stack__
